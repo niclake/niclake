@@ -1,5 +1,5 @@
 - 👋🏻 Hi, I’m Nic, and my pronouns are he/him
 - 🗺️ I am based out of Des Moines, IA, USA
 - 🔨 I'm working remotely as a senior full-stack developer, utilizing Ruby on Rails + React
-- 📖 I’m currently learning Python, and want to learn a few other JavaScript frameworks (Angular, Vue, Node) + Swift
+- 📖 I’m currently learning Swift, Node, & Python, and want to learn a few other JavaScript frameworks like Angular & Vue
 - ☎️ You can contact me on [Twitter](https://twitter.com/niclake), or through [my website](http://niclake.me)
