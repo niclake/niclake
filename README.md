@@ -5,4 +5,4 @@
 - ✍🏻 I write over on [my website](https://niclake.me)
 - ☎️ You can contact me via [my Hello page](https://niclake.me/hello/)
 
-![My Skills](https://skillicons.dev/icons?i=ruby,rails,postgres,graphql,nodejs,react,js,html,css)
+![My Skills](https://skillicons.dev/icons?i=ruby,rails,postgres,graphql,nodejs,react,js,html,css,sass,vscode,apple)
